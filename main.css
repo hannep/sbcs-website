@@ -1,0 +1,12 @@
+#header-logo {
+    width: 512px;
+}
+
+html {
+    background-color: white;
+}
+
+body {
+    width: 1024px;
+    margin: auto;
+}
